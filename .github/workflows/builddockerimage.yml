@@ -7,7 +7,7 @@ on:
       - Dockerfile
       - requirements.txt
       - templates/**
-      - .github/workflows/builddocker.yml
+      - .github/workflows/builddockerimage.yml
 
 jobs:
   build:
